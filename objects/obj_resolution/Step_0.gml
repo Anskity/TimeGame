@@ -1,0 +1,1 @@
+camera_set_view_pos(view_camera[0], global.camera_x, global.camera_y);
